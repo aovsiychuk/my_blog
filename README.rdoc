@@ -5,8 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version 4.1.8
-* Example app: https://my-micro-blog.herokuapp.com/
+* Ruby version 2.2.4
+* Rails version 4.1.8
+* Example app: https://my-micro-blog.herokuapp.com
 
 
 
